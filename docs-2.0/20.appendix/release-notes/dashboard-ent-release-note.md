@@ -6,10 +6,10 @@
 
   - 支持通过{{dashboard_ent.name}}[一键部署 License Manager (LM)](../../nebula-dashboard-ent/3.connect-dashboard.md)。  
   - 全量备份支持[全量备份至本地](../../nebula-dashboard-ent/4.cluster-operator/operator/backup-and-restore.md)。
+  - 增加[慢查询分析](../../nebula-dashboard-ent/4.cluster-operator/analysis-diagnosis/slow-query-analyst.md)功能。
   - [集群诊断](../../nebula-dashboard-ent/4.cluster-operator/analysis-diagnosis/cluster-diagnosis.md)打分公式支持配置。
   - [更新配置](../../nebula-dashboard-ent/4.cluster-operator/operator/update-config.md)增加**新增配置**、查看当前配置的**生效值**以及**查看不一致配置**功能。
   - [通知设置](../../nebula-dashboard-ent/system-settings/notification-endpoint.md)中 webhook 支持配置 body。
-  - 支持查看当前登录的用户以及切换用户。
 
 - 优化
   
