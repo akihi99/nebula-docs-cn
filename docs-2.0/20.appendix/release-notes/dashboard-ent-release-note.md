@@ -9,7 +9,7 @@
   - [集群诊断](../../nebula-dashboard-ent/4.cluster-operator/analysis-diagnosis/cluster-diagnosis.md)打分公式支持配置。
   - [更新配置](../../nebula-dashboard-ent/4.cluster-operator/operator/update-config.md)增加**新增配置**、查看当前配置的**生效值**以及**查看不一致配置**功能。
   - [通知设置](../../nebula-dashboard-ent/system-settings/notification-endpoint.md)中 webhook 支持配置 body。
-  - 支持查看当前登录的用户以及切换用户
+  - 支持查看当前登录的用户以及切换用户。
 
 - 优化
   
